@@ -1,1 +1,33 @@
-# git-workshop
+# Git Workshop
+
+Introduction to git and github.
+
+## Prerequisites
+
+Prior to starting these, you must have the following software configured on your local machine:
+
+Git - [Git - Downloads and Setup](https://git-scm.com/downloads)
+
+CLI tools - [Command Line Tools for Developers](https://www.toptal.com/software/best-command-line-tools)
+
+## Overview
+
+1. Configure Git.
+2. Init a Git project.
+3. Git Ignore
+4. Create a project - Github.
+5. Common git commands in a day-to-day workflow
+6. Committing.
+7. Feature branching.
+8. PUll requests.
+9. Feedback and Collaboration.
+
+## Task
+
+1. [ ] Configure Git.
+2. [ ] Init a Git project
+
+## Resources
+
+1. [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+2. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
