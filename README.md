@@ -26,6 +26,11 @@ CLI tools - [Command Line Tools for Developers](https://www.toptal.com/software/
 
 1. [ ] Configure Git.
 2. [ ] Init a Git project
+3. [ ] Add a Git Ignore file
+4. [ ] Create and Connect a git repo in github
+5. [ ] Create a commit and push to remote
+6. [ ] Create a new branch
+7. [ ] Create a pull request via github
 
 ## Resources
 
