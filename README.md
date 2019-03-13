@@ -19,7 +19,7 @@ CLI tools - [Command Line Tools for Developers](https://www.toptal.com/software/
 5. Common git commands in a day-to-day workflow
 6. Committing.
 7. Feature branching.
-8. PUll requests.
+8. Pull requests.
 9. Feedback and Collaboration.
 
 ## Task
