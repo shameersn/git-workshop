@@ -2,7 +2,7 @@
 
 ## Configure Git
 
-1. List git configuaration - `git config --list`
+1. List git configuaration - `git config --list` `git --version`
 
 2. Configure Git Glogaly - dislplaying in commit messages
 
@@ -56,6 +56,11 @@ conflicted text from hotfix
 
 `git merge --squash` This will take all the commits from the bugfix branch, squash them into 1 commit, and merge it with your master branch.
 
+abort a merge - `git reset --merge ORIG_HEAD` or `git reset --hard ORIG_HEAD` or `git reset --hard commit_sha`
+
+git log shows the commit log accessible from the refs (heads, tags, remotes)
+git reflog is a record of all commits that are or were referenced in your repo at any time.
+
 ## Create a repo - Github
 
 1. SSH `git remote add origin git@github.com:shameersn/git-demo.git`
@@ -83,4 +88,6 @@ git log
 
 ## Pull requests
 
-1. Use github to create prs
+1. Use github to create pr
+2. [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
+3. [How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
